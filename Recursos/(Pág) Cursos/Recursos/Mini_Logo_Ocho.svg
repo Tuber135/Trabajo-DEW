@@ -1,0 +1,42 @@
+<svg width="57" height="60" viewBox="0 0 57 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_107_329)" filter="url(#filter0_d_107_329)">
+<path d="M14.9864 30.9215L6.03326 28.4379L4.03809 6.07666H25.9616L23.9643 28.4344L14.9864 30.9215Z" fill="#264DE4"/>
+<path d="M22.2543 27.011L23.9611 7.90527H14.9998V29.0207L22.2543 27.011Z" fill="#2965F1"/>
+<path d="M8.61206 16.1987L8.85805 18.9412H14.9999V16.1987H8.61206Z" fill="#EBEBEB"/>
+<path d="M8.11768 10.6479L8.36717 13.3905H14.9998V10.6479H8.11768Z" fill="#EBEBEB"/>
+<path d="M14.9999 23.3213L14.9879 23.3245L11.9313 22.4998L11.7359 20.3125H8.98071L9.36523 24.6186L14.9873 26.1782L14.9999 26.1747V23.3213Z" fill="#EBEBEB"/>
+<path d="M9.19751 0H12.5217V1.38906H10.5876V2.77812H12.5217V4.16718H9.19751V0Z" fill="black"/>
+<path d="M13.1865 0H16.5107V1.20788H14.5766V1.44945H16.5107V4.22757H13.1865V2.9593H15.1206V2.71773H13.1865V0Z" fill="black"/>
+<path d="M17.1755 0H20.4997V1.20788H18.5656V1.44945H20.4997V4.22757H17.1755V2.9593H19.1096V2.71773H17.1755V0Z" fill="black"/>
+<path d="M21.37 16.1989L21.8655 10.6479H14.9902V13.3905H18.8576L18.6079 16.1989H14.9902V18.9414H18.3699L18.0513 22.4982L14.9902 23.3238V26.177L20.6168 24.6188L20.6581 24.1555L21.303 16.9353L21.37 16.1989Z" fill="white"/>
+</g>
+<g clip-path="url(#clip1_107_329)" filter="url(#filter1_d_107_329)">
+<path d="M31.608 31C30.0674 31 28.9274 32.3161 28.9785 33.7434C29.0274 35.1146 28.9638 36.8906 28.5057 38.3388C28.0463 39.7914 27.2692 40.7115 26 40.8296V42.1634C27.2692 42.2815 28.0463 43.2016 28.5057 44.6542C28.9638 46.1025 29.0274 47.8784 28.9785 49.2496C28.9274 50.6767 30.0674 51.993 31.6082 51.993H47.3941C48.9347 51.993 50.0744 50.6769 50.0234 49.2496C49.9744 47.8784 50.038 46.1025 50.4961 44.6542C50.9558 43.2016 51.7308 42.2815 53 42.1634V40.8296C51.7308 40.7115 50.9558 39.7914 50.4961 38.3388C50.038 36.8908 49.9744 35.1146 50.0234 33.7434C50.0744 32.3163 48.9347 31 47.3941 31H31.6078H31.608ZM44.3051 43.9225C44.3051 45.8878 42.8032 47.0798 40.3107 47.0798H36.0678C35.8151 47.0798 35.6102 46.8798 35.6102 46.6331V36.3599C35.6102 36.1132 35.8151 35.9133 36.0678 35.9133H40.2864C42.3647 35.9133 43.7287 37.012 43.7287 38.6991C43.7287 39.8832 42.8112 40.9433 41.6422 41.1289V41.1908C43.2336 41.3612 44.3051 42.4367 44.3051 43.9225ZM39.848 37.3292H37.4288V40.6644H39.4664C41.0415 40.6644 41.9101 40.0453 41.9101 38.9387C41.9101 37.9018 41.1632 37.3292 39.848 37.3292ZM37.4288 41.9878V45.6634H39.937C41.5769 45.6634 42.4457 45.0211 42.4457 43.814C42.4457 42.6067 41.5527 41.9876 39.8316 41.9876H37.4288V41.9878Z" fill="#7E13F8"/>
+</g>
+<defs>
+<filter id="filter0_d_107_329" x="0" y="0" width="30" height="39" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_107_329"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_107_329" result="shape"/>
+</filter>
+<filter id="filter1_d_107_329" x="22" y="31" width="35" height="29" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_107_329"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_107_329" result="shape"/>
+</filter>
+<clipPath id="clip0_107_329">
+<rect width="22" height="31" fill="white" transform="translate(4)"/>
+</clipPath>
+<clipPath id="clip1_107_329">
+<rect width="27" height="21" fill="white" transform="translate(26 31)"/>
+</clipPath>
+</defs>
+</svg>
